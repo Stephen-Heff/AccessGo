@@ -7,4 +7,4 @@ A Mobile Web app
 
 Web architecture link: https://lucid.app/lucidchart/004666d4-34a4-4e85-8772-9ccfb7bbe6bc/edit?view_items=lR3OwFYVPQqU&invitationId=inv_876b94e5-a2bb-4756-9e1f-4ce59f5be708
 
-Link to figma: https://www.figma.com/file/rFWbhLHcwDZOtRB6Jdg7TU/IXD-5202-%2F-AccessGo?node-id=122-368&t=zI5u7dKlhIvVNXK3-0
+Link to figma: https://www.figma.com/file/rFWbhLHcwDZOtRB6Jdg7TU/IXD-5202-%2F-AccessGo?node-id=210-2313&t=mYZWs1wc1owkpkbJ-0
